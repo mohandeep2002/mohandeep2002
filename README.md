@@ -16,7 +16,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohandeep2002&theme=tokyonight)
 
-
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=mohandeep2002.mohandeep2002)
