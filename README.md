@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan
-- 👀 I’m interested in making webistes and apps.
+- 👀 I’m interested in Django.
 - 🌱 I’m currently learning Android App development.
 
 
