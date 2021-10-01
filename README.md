@@ -17,12 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohandeep2002&theme=tokyonight&langs_count=20)
 
 
+## My Contribution
 
-
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohandeep2002&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-
-
+[![Mohandeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohandeep2002&theme=react-dark)](https://github.com/mohandeep2002/github-readme-activity-graph)
