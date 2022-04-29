@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ✨ Interested in BackEnd Development.
 
-🧑🏻‍💻 Working as a BackEnd Engineer at **_Zupay-Tech_**
+🧑🏻‍💻 Working as a BackEnd Intern at **_Zupay-Tech_**
 
 
 
