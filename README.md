@@ -1,7 +1,7 @@
 # Hello, I'm Mohan
 
 - 💻 I'm currently working as a BackEnd Developer.
-- 👀 I’m interested in BackEnd Developement.
+- 👀 I’m interested in BackEnd Developement(Djagno).
 - 🌱 I’m currently learning Android App development.
 
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # About
 👋🏻 Hello folks!, I'm Mohandeep from K L University. 
 
-✨ Interested in BackEnd Development.
+✨ Interested in BackEnd Development(Django).
 
 🧑🏻‍💻 Working as a BackEnd Intern at **_Zupay-Tech_**
 
