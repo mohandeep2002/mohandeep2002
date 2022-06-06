@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 ✨ Interested in BackEnd Development(Django).
 
-🧑🏻‍💻 Working as a BackEnd Intern at **_Zupay-Tech_**
+🧑🏻‍💻 Worked as a BackEnd Intern at **_Zupay-Tech_**
 
+👨🏻‍💻 Working as a Software Developer Engineer at **_HoloWorld_**
 
 
 
