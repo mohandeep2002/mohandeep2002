@@ -2,7 +2,7 @@
 
 - 💻 I'm currently working as a BackEnd Developer.
 - 👀 I’m interested in BackEnd Developement(Djagno).
-- 🌱 I’m currently learning Android App development.
+- 🌱 I’m currently learning Unity Development.
 
 
 
