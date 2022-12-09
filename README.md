@@ -23,11 +23,14 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=mohandeep2002&style=plastic)
 
+## Languages and tools
+### Languages
+![My Skills](https://skillicons.dev/icons?i=cs,py,java,cpp,c)
+### Tools and skills
+![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,unity,fastapi,docker,gitlab,mongodb,mysql,vscode,visualstudio)
 
 
-
-
-## Languages I used
+## Languages I used the most
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohandeep2002&theme=tokyonight&langs_count=5" width="600" height="300"/>
