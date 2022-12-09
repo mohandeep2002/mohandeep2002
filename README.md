@@ -3,6 +3,7 @@
 - 💻 I'm currently working as a Software Developer Engineer at [Holoworld](https://holoworld.one/).
 - 👀 I’m interested in BackEnd Developement(Djagno).
 - 🌱 I’m currently learning Unity Development.
+- 🧑‍💻 App Development 🤔 yes in MAUI.
 
 
 
@@ -27,7 +28,11 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cs,py,java,cpp,c)
 ### Tools and skills
-![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,unity,fastapi,docker,gitlab,mongodb,mysql,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,unity,fastapi,docker,gitlab,mongodb,mysql)
+### Cloud 
+  ![My Skills](https://skillicons.dev/icons?i=gcp,aws)
+### Code Editors
+ ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)
 
 
 ## Languages I used the most
