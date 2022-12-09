@@ -1,6 +1,6 @@
-# Hello, I'm Mohan
+# <p align=center>Hello, I'm Mohan :smile:<p>
 
-- 💻 I'm currently working as a BackEnd Developer.
+- 💻 I'm currently working as a Software Developer Engineer at [Holoworld](https://holoworld.one/).
 - 👀 I’m interested in BackEnd Developement(Djagno).
 - 🌱 I’m currently learning Unity Development.
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # About
 👋🏻 Hello folks!, I'm Mohandeep from K L University. 
 
-✨ Interested in BackEnd Development(Django).
+✨ Interested in BackEnd Development (Django).
 
 🧑🏻‍💻 Worked as a BackEnd Intern at **_Zupay-Tech_**
 
@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Contribution
 
-[![Mohandeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohandeep2002&theme=react-dark)](https://github.com/mohandeep2002/github-readme-activity-graph)
-
+[![Mohandeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohandeep2002&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Streaks
 <div align="center">
