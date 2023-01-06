@@ -3,7 +3,6 @@
 - 💻 I'm currently working as a Software Developer Engineer at [Holoworld](https://holoworld.one/).
 - 👀 I’m interested in BackEnd Developement(Djagno).
 - 🌱 I’m currently learning Unity Development.
-- 🧑‍💻 App Development 🤔 yes in MAUI.
 
 
 
