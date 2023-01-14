@@ -34,12 +34,7 @@ You can click the Preview link to take a look at your changes.
  ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)
 
 
-## Languages I used the most
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohandeep2002&theme=tokyonight&langs_count=5" width="600" height="300"/>
-  
-</div>
 
 ## My Contribution
 
