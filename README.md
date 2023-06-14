@@ -1,7 +1,7 @@
-# <p align=center>Hello, I'm Mohan :smile:<p>
+# <p align=center>Hello, I'm Mohandeep Atmuri :smile:<p>
 
-- 💻 I'm currently working as a Software Developer Engineer at [Holoworld](https://holoworld.one/).
-- 👀 I’m interested in BackEnd Developement(Djagno).
+- 💻 I work as a Software Developer Engineer at [Holoworld](https://holoworld.one/).
+- 👀 I’m interested in AR/VR development & Full Stack Development.
 - 🌱 I’m currently learning Unity Development.
 
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # About
 👋🏻 Hello folks!, I'm Mohandeep from K L University. 
 
-✨ Interested in BackEnd Development (Django).
+✨ I’m interested in AR/VR development & Full Stack Development.
 
 🧑🏻‍💻 Worked as a BackEnd Intern at **_Zupay-Tech_**
 
