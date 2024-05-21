@@ -1,6 +1,6 @@
 # <p align=center>Hello, I'm Mohandeep Atmuri :smile:<p>
 # 💫 About Me:
-🔭 I'm currently working on Metaverse Projects.<br>🤝 I'm looking for help with Unity dev, Game dev, and Web dev.<br>🌱 I'm currently learning Unity, C# Scripting, and Game Dev.<br>💌 How to reach me mohandeep2002@gmail.com<br>💭 Ask me about Metaverse<br>🧑‍💻 SDE - Holoworld
+🔭 I'm currently working on Metaverse Projects.<br>🤝 I'm looking for help with Unity dev, Game dev, and Web dev.<br>🌱 I'm currently learning Unity, C# Scripting, and Game Dev.<br>💌 How to reach me mohandeep2002@gmail.com<br>💭 Ask me about Metaverse<br>🧑‍💻 SDE - InfiVR
 
 
 ## 🌐 Socials:
